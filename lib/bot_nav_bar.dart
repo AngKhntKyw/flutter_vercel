@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_vercel/pages/profile.dart';
 
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key});
@@ -42,9 +43,7 @@ class _MyHomePageState extends State<MyHomePage>
             Center(
               child: Text("This is Posts"),
             ),
-            Center(
-              child: Text("This is Profile"),
-            )
+            ProfilePage(),
           ],
         ),
       ),
