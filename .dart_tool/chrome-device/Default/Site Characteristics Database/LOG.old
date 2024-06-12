@@ -1,3 +1,2 @@
-2024/06/11-10:20:57.726 338c Reusing MANIFEST C:\Users\kingo\AppData\Local\Temp\flutter_tools.cd2a586d\flutter_tools_chrome_device.e050ac76\Default\Site Characteristics Database/MANIFEST-000001
-2024/06/11-10:20:57.727 338c Recovering log #3
-2024/06/11-10:20:57.727 338c Reusing old log C:\Users\kingo\AppData\Local\Temp\flutter_tools.cd2a586d\flutter_tools_chrome_device.e050ac76\Default\Site Characteristics Database/000003.log 
+2024/06/12-15:35:59.113 1820 Creating DB C:\Users\kingo\AppData\Local\Temp\flutter_tools.a48d5f9\flutter_tools_chrome_device.a90d0887\Default\Site Characteristics Database since it was missing.
+2024/06/12-15:35:59.135 1820 Reusing MANIFEST C:\Users\kingo\AppData\Local\Temp\flutter_tools.a48d5f9\flutter_tools_chrome_device.a90d0887\Default\Site Characteristics Database/MANIFEST-000001
